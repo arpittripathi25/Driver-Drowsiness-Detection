@@ -1,0 +1,22 @@
+# Driver Drowsiness Detection System - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision and Image Processing
+opencv-python==4.8.1.78
+dlib==19.24.2
+numpy==1.24.3
+scipy==1.11.4
+imutils==0.5.4
+
+# Audio Processing
+playsound==1.3.0
+
+# Optional: For better audio support (alternative to playsound)
+# pygame==2.5.2
+
+# Optional: For better camera handling
+# pygrabber==0.1.0
+
+# Development and Testing (optional)
+# pytest==7.4.3
+# pytest-cov==4.1.0
